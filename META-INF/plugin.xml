@@ -8,6 +8,8 @@
       Select a url, type "ctrl+shift+A", type "Download Selection" or select "Download Selection" from the Tools menu.
       ]]></description>
 
+    <depends>com.intellij.modules.lang</depends>
+
     <change-notes><![CDATA[
 
             ]]>
